@@ -1,0 +1,6 @@
+{
+  "name": "PintorPro - Orçamentos de Pintura",
+  "description": "Sistema profissional para pintores elaborarem orçamentos de mão de obra e materiais, cálculo de rendimento de tintas e gestão de obras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

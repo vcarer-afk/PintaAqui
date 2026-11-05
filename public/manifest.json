@@ -1,0 +1,17 @@
+{
+  "name": "PintorPro - Orçamentos de Pintura",
+  "short_name": "PintorPro",
+  "description": "Sistema profissional para orçamentos de mão de obra e materiais de pintura",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#f59e0b",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
